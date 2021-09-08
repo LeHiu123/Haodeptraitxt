@@ -58,3 +58,5 @@ int main() {
 	cout << p1.distance(2.34, 7.8) << endl;
 	return 0;
 }
+
+/dm mịa kiếp/
